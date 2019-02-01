@@ -1,0 +1,19 @@
+"title": "Laozi",
+	"links": [{
+		"text": "English",
+		"display": { "Language": [ "en" ] }
+	}, {
+		"text": "English",
+		"display": { "Language": [ "en" ] }
+	}, {
+		"text": "English",
+		"display": { "Language": [ "en" ] }
+	}],
+	"files": [
+		"laozi/mair.md",
+		"laozi/Addiss-Lombardo.md",
+		"laozi/henricks.md",
+	],
+	"display": { "Language": [ "en" ] },
+	"metaKeys": [ "Author", "Title", "Year", "Language" ]
+}
